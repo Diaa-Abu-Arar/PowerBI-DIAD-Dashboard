@@ -93,6 +93,7 @@ Focuses on the *global business performance*:
 * “Extreme” and “Urban” segments contributed nearly 50% of total sales.
 * Global growth slowed after 2020 due to market saturation.
 
+![Overview Page](PowerBI_Dashboard_Overview.jpeg)
 ---
 
 ### ** 2. Manufacturer Analysis Page**
@@ -109,6 +110,7 @@ Drills down into manufacturer-specific metrics:
 * Moderate and Convenience segments showed consistent growth (above 20%).
 * Negative growth periods were identified post-2020, suggesting areas for efficiency improvements.
 
+![Manufacturer Analysis](Manufacturer_Analysis.jpeg)
 ---
 
 ## 🎨 Design Elements
