@@ -78,7 +78,7 @@ These formulas allowed for **year-over-year growth comparisons**, performance tr
 
 The dashboard was structured into two key report pages:
 
-### ** 1. Overview Page**
+###  1. Overview Page
 
 Focuses on the *global business performance*:
 
@@ -96,7 +96,7 @@ Focuses on the *global business performance*:
 ![Overview Page](PowerBI_Dashboard_Overview.jpeg)
 ---
 
-### ** 2. Manufacturer Analysis Page**
+###  2. Manufacturer Analysis Page
 
 Drills down into manufacturer-specific metrics:
 
